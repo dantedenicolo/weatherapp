@@ -36,7 +36,7 @@ Then, you need to make sure you are working in the correct project folder. You c
 Now you need to install the dependencies using the following command:
 
 ```bash
-npm install
+  npm install
 ```
 
 Finally, you need to run the server. You can to this by using the following command (this will start the development server):

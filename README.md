@@ -1,38 +1,58 @@
-# create-svelte
+# WeatherApp made with Svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+![WeatherApp project image](https://i.imgur.com/Dn8qYR5.png)
 
-## Creating a project
+This is a basic WeatherApp created with [Svelte](https://svelte.dev/).
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Live Deploy
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+You can try the app in [https://weatherapp.dantu.me/](https://weatherapp.dantu.me/).
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Roadmap
 
-## Developing
+- Start project with Svelte
+- UI/UX design
+- IP API integration (used for getting user's location)
+- Weather API integration
+- Initial deploy
+- Eslint up-to-date
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## How to start?
 
-```bash
-npm run dev
+If you want to work with this project, you need to follow these steps:
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
+First you need to clone the repo using the following command:
 
 ```bash
-npm run build
+  git clone https://github.com/dantedenicolo/weatherapp.git
 ```
 
-You can preview the production build with `npm run preview`.
+Then, you need to make sure you are working in the correct project folder. You can access directly the route by using the following command in the same console in which you cloned the repo:
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+  cd weatherapp
+```
+
+Now you need to install the dependencies using the following command:
+
+```bash
+npm install
+```
+
+Finally, you need to run the server. You can to this by using the following command (this will start the development server):
+
+```bash
+  npm run dev
+```
+
+Once you have done that, you can now review, inspect, and edit the code as you want. Feel free to do wathever you want and to give feedback if needed. Please note that this is my first project in react, so many things need to be improved.
+
+## Support
+
+For support, email denicolodante@gmail.com or DM [@dantedenicolo](https://instagram.com/dantedenicolo) on Instagram.
+
+## Connect with me:
+
+- [Twitter](https://twitter.com/dantutu_)
+- [Instagram](https://instagram.com/dantedenicolo)
+- [LinkedIn](https://www.linkedin.com/in/dantedenicolo/)

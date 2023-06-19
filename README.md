@@ -53,6 +53,5 @@ For support, email denicolodante@gmail.com or DM [@dantedenicolo](https://instag
 
 ## Connect with me:
 
-- [Twitter](https://twitter.com/dantutu_)
 - [Instagram](https://instagram.com/dantedenicolo)
 - [LinkedIn](https://www.linkedin.com/in/dantedenicolo/)
